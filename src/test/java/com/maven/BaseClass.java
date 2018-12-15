@@ -22,7 +22,7 @@ public class BaseClass {
 		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		driver.manage().window().fullscreen();
-		
+		//changes made by Gigi
 		
 	}
 
